@@ -1,0 +1,164 @@
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.logo .logo-web {
+    color: #4d5ae5;  
+}
+
+.logo .logo-studio {
+    color: #2e2f42;
+}
+
+.menu a {
+    text-decoration: none;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+}
+
+.menu .menu-link:hover {
+    color: #404bbf;
+}
+
+.contacts a {
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    font-style: normal;
+}
+
+.contacts a:hover {
+    color: #404bbf;
+}
+
+.introduction {
+    background: #2e2f42;
+    width: 1440px;
+    height: 600px;
+}
+.introduction h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #fff;
+}
+
+.introduction button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    color: #fff;
+    background: #4d5ae5;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.introduction button:hover {
+    background: #404bbf;
+}
+
+.features h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+}
+
+.features p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.team h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-profil h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-profil p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #434455;
+}
+
+.profil-1, .profil-2, .profil-3, .profil-4{
+    border-radius: 0 0 4px 4px;
+    padding: 0px 0px 32px 0px;
+    width: 264px;
+    height: 380px;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;
+}
+
+.portfolio h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.portfolio h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+
+.portfolio p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+}
