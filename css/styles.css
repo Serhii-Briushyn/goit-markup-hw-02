@@ -54,7 +54,7 @@
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
 }
@@ -64,7 +64,7 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
     border-radius: 4px;
@@ -82,7 +82,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2e2f42;
     font-family: "Roboto", sans-serif;
 }
@@ -92,7 +92,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -101,7 +101,7 @@
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
@@ -111,7 +111,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
@@ -121,7 +121,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
 }
@@ -140,7 +140,7 @@
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
@@ -150,7 +150,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -159,6 +159,6 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
